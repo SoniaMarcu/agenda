@@ -19,6 +19,7 @@ import org.junit.Test;
 
 public class AfisActivityTest {
 
+
 	RepositoryActivity rep;
 
 	@Before
