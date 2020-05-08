@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a366959-9e49-4bbf-802b-cabefa19af5a" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZnYL5UHGcS4dIjnHRRxaxO29NN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550995375969" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\VVSS\CamiVVSS_ro2017-2018\Labs\Proiecte\ProiectAgenda" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.WBTest">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="recording" autostart="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProiectAgenda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="agenda.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="recording" autostart="true" />
+      <option name="PACKAGE_NAME" value="agenda.test" />
+      <option name="MAIN_CLASS_NAME" value="agenda.test.NewTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProiectAgenda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="agenda.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="recording" autostart="true" />
+      <option name="PACKAGE_NAME" value="agenda.test" />
+      <option name="MAIN_CLASS_NAME" value="agenda.test.NewTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WBTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProiectAgenda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="agenda.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="recording" autostart="true" />
+      <option name="PACKAGE_NAME" value="agenda.test" />
+      <option name="MAIN_CLASS_NAME" value="agenda.test.WBTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WBTest.test_invalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProiectAgenda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="agenda.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="recording" autostart="true" />
+      <option name="PACKAGE_NAME" value="agenda.test" />
+      <option name="MAIN_CLASS_NAME" value="agenda.test.WBTest" />
+      <option name="METHOD_NAME" value="test_invalid" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WBTest.test_valid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProiectAgenda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="agenda.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="recording" autostart="true" />
+      <option name="PACKAGE_NAME" value="agenda.test" />
+      <option name="MAIN_CLASS_NAME" value="agenda.test.WBTest" />
+      <option name="METHOD_NAME" value="test_valid" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="recording" autostart="true" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="recording" autostart="true" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WBTest" />
+        <item itemvalue="JUnit.WBTest.test_invalid" />
+        <item itemvalue="JUnit.WBTest.test_valid" />
+        <item itemvalue="JUnit.NewTest.test1" />
+        <item itemvalue="JUnit.NewTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Cami\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a366959-9e49-4bbf-802b-cabefa19af5a" name="Default" comment="" />
+      <created>1519201614463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519201614463</updated>
+      <workItem from="1519201620312" duration="2358000" />
+      <workItem from="1519205436279" duration="257000" />
+      <workItem from="1550951726905" duration="559000" />
+      <workItem from="1550994815485" duration="551000" />
+      <workItem from="1585476273693" duration="4300000" />
+      <workItem from="1585673610970" duration="108000" />
+      <workItem from="1585674796412" duration="4170000" />
+      <workItem from="1585755720152" duration="3201000" />
+      <workItem from="1586866311353" duration="3815000" />
+      <workItem from="1586954683411" duration="638000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="828" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585673674184">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="828" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1585476392571" />
+    <state x="828" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585673674184" />
+    <state x="1288" y="426" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585674816663">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1288" y="414" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1585476348461" />
+    <state x="1288" y="426" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585674816663" />
+    <state x="1020" y="185" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1585674814801">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1020" y="180" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1585476345796" />
+    <state x="1020" y="185" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1585674814801" />
+    <state x="1220" y="288" key="FileChooserDialogImpl" timestamp="1585674810858">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1220" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1585476344305" />
+    <state x="1220" y="288" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1585674810858" />
+    <state width="914" height="296" key="GridCell.Tab.0.bottom" timestamp="1586955326450">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="296" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586955326450" />
+    <state width="914" height="296" key="GridCell.Tab.0.center" timestamp="1586955326443">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="296" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586955326443" />
+    <state width="914" height="296" key="GridCell.Tab.0.left" timestamp="1586955326443">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="296" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586955326443" />
+    <state width="914" height="296" key="GridCell.Tab.0.right" timestamp="1586955326450">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="296" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586955326450" />
+    <state x="922" y="167" key="SettingsEditor" timestamp="1585673642984">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="922" y="167" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1585673642984" />
+  </component>
+</project>
